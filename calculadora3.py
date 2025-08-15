@@ -5,7 +5,7 @@ Created on Thu Aug 14 21:10:46 2025
 # streamlit_app.py
 # -------------------------------------------------------------
 # Calculadora de Ahorro (simple): Banco vs Vita Wallet
-# Autor: ChatGPT (para Pablo)
+# Autor: Pablo Martínez
 # Descripción: Versión simple + spread FX global.
 # -------------------------------------------------------------
 
@@ -288,4 +288,5 @@ st.caption(
     • Los valores de comisiones y spreads son referenciales y se pueden ajustar.
     """
 )
+
 
