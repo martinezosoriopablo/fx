@@ -34,7 +34,7 @@ with st.sidebar:
 
     st.markdown("---")
     st.subheader("Presets de comisiones (por transacción)")
-    st.caption("Valores base por riel. Cada país hereda estos valores (puedes cambiarlos luego si lo necesitas en el código).")
+    st.caption("Valores base.")
 
     col_a, col_b = st.columns(2)
     with col_a:
@@ -288,3 +288,4 @@ st.caption(
     • Los valores de comisiones y spreads son referenciales y se pueden ajustar.
     """
 )
+
